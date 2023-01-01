@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'lato',sans-serif;
+    font-family: sans-serif;
+    /* 'lato', */
 }
 .outerbox{
     width: 100vw;
