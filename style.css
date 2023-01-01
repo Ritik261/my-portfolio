@@ -10,9 +10,9 @@
     
     width: 100%;
     height:100%;
-    background:rgb(244, 229, 229);
+    background: linear-gradient(to top left, #ffffffff,#ffffff33);
     margin-top: 0px;
-    background-color:#faae7b;
+    background: linear-gradient(to top left,#3ed8ff,#a8f5ff);
      }
 
 nav{
