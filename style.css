@@ -60,7 +60,7 @@ nav ul li a:hover{
     margin-bottom: 20px;
 }
 span{
-    color:red;
+    color:rgb(91, 6, 249);
 
 }
 .detail p{
@@ -114,18 +114,21 @@ margin-left: 75%;
     margin-left: 20%;
     margin-top: 1rem;
     font-family: 'Caveat', lato;
+    font-size: 20px;
 }
 .about h1{
     margin-left: 20%;
     color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .about ul li p {
     color: black;
 }
 .portfolio{
     margin-top: 1rem;
-    margin-left: 30rem;
-    margin-right:30rem ;
+    margin-left: 15rem;
+    margin-right:15rem ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .detail a{
     background: #212121;
@@ -150,5 +153,18 @@ margin-left: 75%;
 }
 .portfolio a:hover{
     background-color: #fff;
-    color: #212121;
+    color:rgb(220, 218, 218);
 }
+#div1{
+    font-family: 'Caveat', cursive;
+    color: #000000;
+}
+#div2{
+    float: left;
+    width:45%;
+    font-family: 'Caveat', cursive;
+}
+#div3{
+    font-family: 'Caveat', cursive;
+}
+
