@@ -12,7 +12,7 @@
     height:100%;
     background: linear-gradient(to top left, #ffffffff,#ffffff33);
     margin-top: 0px;
-    background: linear-gradient(to top left,#3ed8ff,#a8f5ff);
+    background: linear-gradient(to top left,#ece6e6,#52b6ca);
      }
 
 nav{
@@ -24,7 +24,7 @@ nav{
     padding: 0px 0px;
     align-items: center;
     justify-content: space-between;
-    background: linear-gradient(to top left,#3ed8ff,#a8f5ff);
+    background: linear-gradient(to top left,#38a4bf,#f0f3f3);
 }
 nav ul li{
     display: inline-block;
