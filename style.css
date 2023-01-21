@@ -111,9 +111,9 @@ margin-left: 75%;
 }
 .about{
     display: block;
-    margin-left: 20%;
+    margin-left:4rem;
     margin-top: 1rem;
-    font-family: 'Caveat', lato;
+    font-family: 'verdana', lato;
     font-size: 20px;
 }
 .about h1{
@@ -126,8 +126,8 @@ margin-left: 75%;
 }
 .portfolio{
     margin-top: 1rem;
-    margin-left: 15rem;
-    margin-right:15rem ;
+    margin-left: 5rem;
+    margin-right:1rem ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .detail a{
