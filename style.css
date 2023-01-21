@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,500;1,100;1,300;1,400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -66,7 +67,7 @@ span{
 .detail p{
     color: #555;
     line-height: 22px;
-    font-family: 'Caveat', cursive;
+    font-family: 'verdana', Georgia, 'Times New Roman', Times, serif;
 }
 
 .images{
@@ -156,15 +157,15 @@ margin-left: 75%;
     color:rgb(220, 218, 218);
 }
 #div1{
-    font-family: 'Caveat', cursive;
+    font-family: 'verdana', sans-serif;
     color: #000000;
 }
 #div2{
     float: left;
     width:45%;
-    font-family: 'Caveat', cursive;
+    font-family: 'verdana', sans-serif;
 }
 #div3{
-    font-family: 'Caveat', cursive;
+    font-family: 'verdana', sans-serif;
 }
 
